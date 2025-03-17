@@ -1,13 +1,15 @@
+/* Common */
+.underline {
+  border-bottom: 2px solid rgb(255, 165, 0);
+}
+
 /* Header */
 .header-bg {
   background-color: rgb(211, 211, 211);
   text-align: center;
 }
 
-.underline {
-  border-bottom: 2px solid rgb(255, 165, 0);
-}
-
+/* Main */
 .section-title {
   color: rgb(255, 165, 0);
 }
