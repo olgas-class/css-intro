@@ -1,6 +1,17 @@
 /* Header */
 .header-bg {
   background-color: rgb(211, 211, 211);
-  border-bottom: 2px solid rgb(255, 165, 0);
   text-align: center;
+}
+
+.underline {
+  border-bottom: 2px solid rgb(255, 165, 0);
+}
+
+.section-title {
+  color: rgb(255, 165, 0);
+}
+
+.subsection-title {
+  font-style: italic;
 }
