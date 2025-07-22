@@ -1,0 +1,54 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 46px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  color: rgb(40, 61, 138, 0.7);
+}
+
+a {
+  text-decoration: none;
+}
+
+.green-text {
+  color: #008000;
+}
+
+.pink-text {
+  color: rgb(255, 0, 255);
+}
+
+#example-1 {
+  color: brown;
+}
+
+.outer-square {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
+
+.square {
+  background-color: lightblue;
+  width: 40%;
+  height: 50%;
+}
+
+.section-image {
+  width: 30%;
+}
+
+.banner {
+  height: 400px;
+  background-image: url(../img/monti.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
